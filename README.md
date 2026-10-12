@@ -4,11 +4,11 @@ Interactive web-based training platform for SOC analyst development with realist
 
 ## Features
 
-- **Multi-Stage Scenarios**: 10+ realistic APT simulations (reconnaissance → exfiltration)
-- **Interactive Decision Trees**: Analyst choices determine incident outcomes
-- **Performance Metrics**: Detection speed, containment effectiveness, accuracy
-- **Playbook Validation**: Compare decisions against industry best practices
-- **Leaderboard**: Competitive training and skill progression tracking
+- Multi-Stage Scenarios: 10+ realistic APT simulations (reconnaissance -> exfiltration)
+- Interactive Decision Trees: Analyst choices determine incident outcomes
+- Performance Metrics: Detection speed, containment effectiveness, accuracy
+- Playbook Validation: Compare decisions against industry best practices
+- Leaderboard: Competitive training and skill progression tracking
 
 ## Quick Start
 
@@ -23,10 +23,10 @@ Access: http://localhost:5000
 
 ## Scenarios
 
-1. **Ransomware Deployment**: Detection, containment, recovery procedures
-2. **Data Exfiltration**: Multi-stage attack with lateral movement
-3. **Insider Threat**: Privilege abuse and data theft
-4. **Malware Outbreak**: Network-wide infection containment
+1. Ransomware Deployment: Detection, containment, recovery procedures
+2. Data Exfiltration: Multi-stage attack with lateral movement
+3. Insider Threat: Privilege abuse and data theft
+4. Malware Outbreak: Network-wide infection containment
 
 ## Technologies
 
@@ -41,7 +41,7 @@ Python 3.9+ | Flask | MITRE ATT&CK Framework | PostgreSQL | Elasticsearch
 
 ## Documentation
 
-Full scenario details and trainer guide: [Case Study](https://korir555.github.io/cybersecurity-portfolio/projects/07-incident-response-simulator/)
+Full scenario details and trainer guide: Case Study
 
 ## License
 
